@@ -5,6 +5,6 @@ Me chamo Rebeca Cardoso, tenho 17 anos e moro em Brasília-DF!
 * Java
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="50px">
 
- <div style="text-align:end"> 
+ <div style="diplay: flex; justify-content: end;"> 
   <img src="ImagemPerfil.png" width="100px">
  </div>

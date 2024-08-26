@@ -1,5 +1,5 @@
 # Oie, seja bem vindo(a)!!
-Me chamo Rebeca Cardoso, tenho 17 anos e moro em Brasília-DF!
+Me chamo Rebeca Cardoso, tenho 18 anos e moro em Brasília-DF!
 * 💻 Estudando desenvolvimento de sistemas.
 * 💼 Trabalho na empresa LjR.                                               
 * Java
